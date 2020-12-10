@@ -7,7 +7,7 @@
 | day | topic                                         | web                                                                               |
 | --- | :-------------------------------------------- | --------------------------------------------------------------------------------- |
 | 1   | JS Drum Kit                                   | [demo](https://vii120.github.io/js30/01%20-%20JavaScript%20Drum%20Kit/index.html) |
-| 2   | JS + CSS Clock                                | -                                                                                 |
+| 2   | JS + CSS Clock                                | [demo](https://vii120.github.io/js30/02%20-%20JS%20and%20CSS%20Clock/index.html)  |
 | 3   | CSS Variables and JS                          | -                                                                                 |
 | 4   | Array Cardio Day 1                            | -                                                                                 |
 | 5   | Flex Panels Image Gallery                     | -                                                                                 |
